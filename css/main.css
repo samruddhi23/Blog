@@ -1,0 +1,73 @@
+/*Background:#565656
+Sec Background: D7CEC7\
+
+C5C6C7
+Primary:#66FCF1
+Secondary45A29*/
+
+body{
+ font-family: 'Alice', serif;
+}
+
+h1,h2,h3,h4,h5{
+font-weight: 700;
+}
+h3{
+	font-size: 1.5rem;
+}
+/*header*/
+a{
+	color:#E0B1CB;
+}
+input{
+	background-color: #5E548E !important; 
+	color:#E0B1CB !important;
+
+}
+.navbar{
+background-color: #231942;
+color:#E0B1CB !important;
+}
+.navbar-brand{
+	font-weight: 700;
+	font-size: 1.8rem;
+}
+.btn-main{
+	background-color:#E0B1CB !important;
+	color:  #231942 !important;
+}
+
+
+/*HERO*/
+
+.hero{
+	background-color: #1F2833;
+
+}
+.hero-post{
+	position: relative;	
+}
+
+.hero-post-badges{
+	position: absolute;
+	top: 10px;
+	right: 10px;
+
+}
+.hero-post-badges>a{
+	display:block;
+	background-color:  #231942;
+	color: #E0B1CB;
+	font-size: 0.7rem;
+}
+.hero-post-content{
+	position: absolute;
+	bottom: 10px;
+	background-color:  #231942;
+	
+	color: #E0B1CB;
+}
+.hero-post-content img{
+	border: 2px solid #E0B1CB;
+
+}
